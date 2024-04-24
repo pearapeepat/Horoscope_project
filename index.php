@@ -26,7 +26,7 @@
     <audio id="clickSound">
         <source src="magic-sound.mp3" type="audio/mpeg">
         <!-- Add fallback sources for other browsers if needed -->
-        Your browser does not support the audio element.
+        Your browser does not support the audio element.dddd
     </audio>
     <p class="title">ดูดวงไพ่ยิปซี</p>
     <p class="description">ดูดวงไพ่ยิปซีรายวัน ทำนายภาพรวมความรัก การงาน การเงินของคุณในวันนี้ คุณสามารถดูดวงไพ่ยิปซีรายวันง่ายๆ เพียงตั้งจิตอธิษฐานในสิ่งที่ต้องการ ตั้งคำถามที่อยากรู้ แล้วเลือกไพ่ขึ้นมา 1 ใบ คำตอบจะปรากฎผ่านคำทำนายจากไพ่ยิปซีที่คุณเลือก</p>
